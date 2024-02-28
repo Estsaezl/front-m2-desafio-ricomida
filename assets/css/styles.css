@@ -1,0 +1,71 @@
+*{
+    font-family: "Cabin", sans-serif;
+    color: #373A3C
+}
+
+nav {
+    background-color: #373A3C;
+    font-size: 16px;
+}
+
+.navbar-brand{
+    font-family: "Lobster", sans-serif;
+    font-size: 37px;
+}
+
+#inicio h1 {
+    font-weight: 700;
+}
+
+#inicio p {
+    font-weight: 700;
+}
+
+hr {
+    border-top: 2px solid;
+    opacity: 0.75;
+}
+
+#inicio button{
+border-color: #DDDDDD;
+}
+
+.carousel-indicators [data-bs-target]{
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;  
+}
+
+.carousel-indicators{
+    bottom: -50px;
+}
+
+ul {
+    list-style: none;
+}
+
+#contacto span{
+    font-family: "Lobster", sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+#contacto p{
+    font-size: 20px;
+    color: white;
+}
+
+#contacto button {
+    border-color: white;
+    width: 233px;
+}
+
+
+footer h2{
+    font-family: "Lobster", sans-serif;
+    color: white;
+    background-color: #373A3C;
+    font-size: 37px;
+    text-align: center;
+}
+
